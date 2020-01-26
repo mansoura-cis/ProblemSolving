@@ -1,2 +1,2 @@
 # ProblemSolving
-C++ for problem solving
+problem solving by C++
